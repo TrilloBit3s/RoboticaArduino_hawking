@@ -1,0 +1,17 @@
+//comandos para o apps de voz
+
+1  desligar a lâmpada = b
+2  ligar a lâmpada = a   
+3  desligar o ventilador = d
+4  Ligar o ventilador = c
+5  desligar os equipamentos = f
+6  ligar os equipamentos = e
+   12	botão-Lâmpada Ligada = g
+   13	botão-lampada Desligada = h
+   14	botão-Ventilador Ligado = i
+   15	botão-Desligado = j
+7  obrigado = k
+8  Bom dia = l
+9  está bem = m
+10 Boa tarde = n
+11 boa noite = o
